@@ -8,4 +8,4 @@ if (hora < 12) {
     alert('Boa noite');
 }
 
-
+window.confirm("Você gostou da página?")
