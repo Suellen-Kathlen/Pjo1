@@ -96,7 +96,7 @@ Body {
     padding: 20px;
     color:white;
 }
-.contact-btn :hover{
+.contact-btn:hover{
     background: #180F4A;
 }
 
@@ -143,9 +143,13 @@ footer{
     bottom: 5px;
     right: 5px;
     color:green;
-    padding: 20px;
+    padding: 10px;
     text-decoration: none;
-    border: 1px solid black;
-    background: #180F4A;
+    border: 3px solid black;
+    background: white;
     font-weight: bold;
+}
+.whats:hover{
+    background: #FF2978;
+
 }
