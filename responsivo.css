@@ -1,0 +1,13 @@
+@media screen and (max-width:1005px){
+.menu{
+    display: none;
+}
+.card{
+    width: 100%;
+}
+}
+
+/*12/03/2022
+Difícil a responsividade, ainda não peguei bem essa parte.
+Preciso revisar também input.
+*/
