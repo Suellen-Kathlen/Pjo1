@@ -7,9 +7,15 @@ if (hora < 12) {
 } else {
     alert('Boa noite');
 }
+var nome = window.prompt('Qual seu nome?');
+window.alert('Olá, ' + nome + "!");
 
-var nome = window.prompt('Qual é seu nome?')
-window.alert('Tenha um bom dia, ' + nome + '!')
+var pagina = window.prompt('Você gostou da minha página?');
+if ((pagina == "Sim" || pagina == "sim")) {
+    window.alert('Oba, então tenho alguma chance!');
+}
+else ((pagina == "Não" || pagina == "não"))
+{
+    window.alert('Tudo bem, quem sabe na próxima.');
+}
 
-
-window.confirm("Você gostou da página?")
