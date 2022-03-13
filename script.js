@@ -8,4 +8,8 @@ if (hora < 12) {
     alert('Boa noite');
 }
 
+var nome = window.prompt('Qual é seu nome?')
+window.alert('Tenha um bom dia, ' + nome + '!')
+
+
 window.confirm("Você gostou da página?")
