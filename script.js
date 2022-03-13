@@ -13,8 +13,9 @@ window.alert('Olá, ' + nome + "!");
 var pagina = window.prompt('Você gostou da minha página?');
 if ((pagina == "Sim" || pagina == "sim")) {
     window.alert('Oba, então tenho alguma chance!');
+    
 }
-else ((pagina == "Não" || pagina == "não"))
+else if ((pagina == "Não" || pagina == "não"))
 {
     window.alert('Tudo bem, quem sabe na próxima.');
 }
