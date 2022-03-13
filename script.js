@@ -1,3 +1,15 @@
+
+var a = window.document.getElementById('botom')
+
+function entrar() {
+    var a = window.document.getElementById('botom')
+    a.innerText = 'We can help you!'
+}
+function sair() {
+    var a = window.document.getElementById('botom')
+    a.innerText = 'Hire now'
+}
+
 var hora = new Date().getHours();
 
 if (hora < 12) {
@@ -10,13 +22,16 @@ if (hora < 12) {
 var nome = window.prompt('Qual seu nome?');
 window.alert('Olá, ' + nome + "!");
 
-var pagina = window.prompt('Você gostou da minha página?');
+var pagina = window.prompt('Você quer conhecer minha página? \n \n Responda com Sim/sim ou Não/não.');
 if ((pagina == "Sim" || pagina == "sim")) {
-    window.alert('Oba, então tenho alguma chance!');
-    
+    window.alert('Oba, então vamos lá!');
+
 }
-else if ((pagina == "Não" || pagina == "não"))
-{
+else if ((pagina == "Não" || pagina == "não")) {
     window.alert('Tudo bem, quem sabe na próxima.');
 }
+
+
+
+
 
