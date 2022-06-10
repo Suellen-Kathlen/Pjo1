@@ -1,5 +1,5 @@
 # Pjo1
-Exercitando a aula do professor Dimitri no canal Programação Web.
+Exercitando a aula do professor Dimitri do canal Programação Web.
 Curso CSS Completo: Aula 28 - Criando Site do Zero Com CSS e HTML.
 Obs.: algumas coisas fiz diferente.
 https://www.youtube.com/watch?v=6gRtjwD2w88&list=PL2Fdisxwzt_f5C7Mv0kg1EAHhy2VJLf1c&index=28
